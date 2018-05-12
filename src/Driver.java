@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 public class Driver {
     /**
-     * Text to prompt the user for input
+     * Text to prompt the user for input.
      */
     public static final String TERMINAL_PROMPT = "Welcome!\n" +
             "1. Connect to a person\n" +
