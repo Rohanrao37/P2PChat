@@ -33,7 +33,7 @@ public class ConnectionManager {
     /**
      * The maximum number of failed tries after we give up trying to connect
      */
-    public static int maxNumTries = 10;
+    public static int maxNumTries = 15;
 
     /**
      * Get the current user's IP address.
